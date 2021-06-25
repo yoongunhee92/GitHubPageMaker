@@ -8,4 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-츄라이 츄라이
+
